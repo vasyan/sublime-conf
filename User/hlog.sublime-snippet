@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+H.log("${1:message}"${2:, object});
+]]></content>
+	<tabTrigger>hlog</tabTrigger>
+	<description>Hotel log method</description>
+</snippet>

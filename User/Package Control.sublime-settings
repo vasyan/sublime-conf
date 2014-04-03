@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Cheat Sheets",
+		"EasyMotion",
+		"Emmet",
+		"Jade",
+		"JsFormat",
+		"Monokai Extended",
+		"Nodejs",
+		"Razor",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Tag",
+		"Vintageous"
+	]
+}

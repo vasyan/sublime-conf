@@ -1,0 +1,8 @@
+*
+!User/
+!SublimeLinter/
+!.gitignore
+!*.sublime-*
+
+*(Linux).sublime-*
+*(OSX).sublime-*

@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/Monokai Extended (SL).tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Nodejs",
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"vintage_start_in_command_mode": true
+}
