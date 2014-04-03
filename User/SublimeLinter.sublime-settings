@@ -11,7 +11,7 @@
                 "@disable": false,
                 "args": [
                     "--config",
-                    "C:\\Users\\vasiliy.styazhkin\\Documents\\jshint.conf"
+                    "C:\\Users\\vasiliy.styazhkin\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\jshint_AWAD.conf"
                 ],
                 "excludes": []
             }

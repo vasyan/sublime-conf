@@ -1,5 +1,6 @@
 *
 !User/
+!User/jshint_*
 !SublimeLinter/
 !.gitignore
 !*.sublime-*
