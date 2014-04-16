@@ -5,6 +5,8 @@
 		"Cheat Sheets",
 		"EasyMotion",
 		"Emmet",
+		"GitGutter",
+		"HTML5",
 		"Jade",
 		"JsFormat",
 		"Monokai Extended",
@@ -14,6 +16,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
+		"SublimeLinter-xmllint",
 		"Tag",
 		"Vintageous"
 	]
