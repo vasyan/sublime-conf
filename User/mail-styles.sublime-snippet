@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+@style["${1:prop}"]
+]]></content>
+	<tabTrigger>sst</tabTrigger>
+</snippet>

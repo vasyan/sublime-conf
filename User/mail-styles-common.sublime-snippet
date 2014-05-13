@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+@styleCommon["${1:prop}"]
+]]></content>
+	<tabTrigger>cct</tabTrigger>
+</snippet>

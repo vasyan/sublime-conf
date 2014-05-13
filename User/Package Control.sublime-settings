@@ -5,6 +5,7 @@
 		"Cheat Sheets",
 		"EasyMotion",
 		"Emmet",
+		"EsFormatter",
 		"GitGutter",
 		"HTML5",
 		"Jade",
@@ -13,11 +14,14 @@
 		"Nodejs",
 		"Razor",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
-		"SublimeLinter-xmllint",
 		"Tag",
+		"Theme - Centurion",
+		"Theme - Centurion Blue",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Theme - Spacegray",
 		"Vintageous"
 	]
 }

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+@Html.Raw("${1:agr}")
+]]></content>
+	<tabTrigger>htr</tabTrigger>
+</snippet>

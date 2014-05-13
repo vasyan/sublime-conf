@@ -2,19 +2,19 @@
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"caret_style": "blink",
-	"color_scheme": "Packages/User/Monokai Extended (SL).tmTheme",
+	"color_scheme": "Packages/User/Flatland Dark (SL).tmTheme",
 	"drag_text": false,
 	"font_size": 14,
 	"ignored_packages":
 	[
-		"Nodejs",
 		"Vintage",
-		"SublimeCodeIntel"
+		"Nodejs"
 	],
 	"save_on_focus_lost": true,
 	"shift_tab_unindent": true,
 	"show_tab_close_buttons": false,
 	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme",
 	"tree_animation_enabled": false,
 	"vintage_start_in_command_mode": true,
 	"vintageous_ignorecase": true
