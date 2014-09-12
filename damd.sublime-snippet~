@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[define([
+  "${1:dependencies}"
+], function(${2:DependParam}){
+  ${3:body}
+});
+
+]]></content>
+  <tabTrigger>damd</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
