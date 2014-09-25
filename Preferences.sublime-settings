@@ -5,18 +5,16 @@
 	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"drag_text": false,
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 11,
+	"font_size": 16,
 	"ignored_packages":
 	[
-		"Jasmine BDD",
-		"SublimeCodeIntel",
-		"AngularJS",
-		"C#",
-		"Vintage",
 		"AngularInject",
-		"Jasmine CoffeeScript",
-		"Nodejs",
-		"SublimeLinter-coffee"
+		"SublimeLinter-coffee",
+		"AngularJS",
+		"Vintage",
+		"C#",
+		"SublimeCodeIntel",
+		"Nodejs"
 	],
 	"rulers":
 	[
