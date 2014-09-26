@@ -1,0 +1,28 @@
+[
+	{
+		"class": "tab_label",
+		"tab_height": 35,
+		"font.size": 16
+	},
+	{
+		"class": "tabset_control",
+		"tab_height": 35
+	},
+	{
+		"class": "sidebar_label",
+		"font.size": 20,
+		"font.style": "bold"
+	},
+	{
+		"class": "icon_file_type",
+		"content_margin": [0,0]
+	},
+	{
+		"class": "icon_folder",
+		"content_margin": [0,0]
+	},
+	{
+		"class": "icon_folder_loading",
+		"content_margin": [0,0]
+	}
+]
