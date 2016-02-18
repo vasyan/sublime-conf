@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+case ${1:Constants}.${2:CONSTANT}:
+	${3:}
+	return {
+		...state,
+		${4:}
+	};
+]]></content>
+	<tabTrigger>recase</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

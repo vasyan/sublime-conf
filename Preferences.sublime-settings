@@ -1,0 +1,60 @@
+{
+	"Seti_no_blue_bar": true,
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"caret_style": "blink",
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+	"drag_text": false,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.db",
+		"*.dll",
+		"*.class",
+		"*.so",
+		"*.lib",
+		"*.obj",
+		"*.psd",
+		"*.sublime-workspace",
+		"*.ncb",
+		"*.pdb",
+		"*.suo",
+		"*.sdf",
+		"*.pyo",
+		"*.idb",
+		"*.a",
+		"*.o",
+		"*.dylib",
+		"*.exe",
+		"*.pyc",
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		"CVS",
+		".git",
+		".svn",
+		".hg"
+	],
+	"font_size": 15,
+	"highlight_line": true,
+	"highlight_modified_tabs": false,
+	"ignored_packages":
+	[
+		"AutoCompleteJS",
+		"Vintage"
+	],
+	"inverse_caret_state": true,
+	"rulers":
+	[
+		80
+	],
+	"scroll_speed": 0,
+	"show_tab_close_buttons": false,
+	"tab_size": 2,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintageous_use_ctrl_keys": true,
+	"word_wrap": false
+}

@@ -1,0 +1,16 @@
+{
+    "conditional_file_exclude_patterns":
+    [
+        "npm-debug.log",
+        "*.min.js"
+    ],
+    "conditional_folder_exclude_patterns":
+    [
+        "bower_components",
+        "build",
+        "docs",
+        "node_modules",
+        "dist"
+    ],
+    "enabled": false
+}

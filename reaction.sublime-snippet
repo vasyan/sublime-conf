@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+export function ${1:actionName} (${2:payload}) {
+  return {
+    type: ${3:Constants}.${4:CONSTANTA},
+    ${5:payload,}
+  };
+}
+
+]]></content>
+	<tabTrigger>reaction</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

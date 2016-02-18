@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoCompleteJS",
+		"Babel",
+		"DashDoc",
+		"Dracula Color Scheme",
+		"FuzzyFilePath",
+		"Git",
+		"GitGutter-Edge",
+		"HTMLBeautify",
+		"iLorem",
+		"Jade",
+		"JavaScriptNext - ES6 Syntax",
+		"LoremIpsum",
+		"Monokai Extended",
+		"Oceanic Color Scheme",
+		"Oceanic Next Color Scheme",
+		"One Dark Color Scheme",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Theme - Flatland",
+		"Theme - Soda SolarizedDark",
+		"ToggleExclude",
+		"Vintageous"
+	]
+}

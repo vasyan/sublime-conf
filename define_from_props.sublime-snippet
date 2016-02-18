@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+const {${1:varialbe}} = this.props;
+]]></content>
+	<tabTrigger>fprp</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
